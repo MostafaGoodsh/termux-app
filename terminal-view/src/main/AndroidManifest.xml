@@ -1,2 +1,3 @@
 <manifest package="com.termux.view">
+    <application android:allowBackup="false" />
 </manifest>
